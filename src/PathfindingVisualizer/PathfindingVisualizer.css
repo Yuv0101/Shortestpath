@@ -1,0 +1,15 @@
+.grid {
+  margin: 100px 0 0;
+}
+
+.header{
+  display:block;
+  align-items: center;
+  text-align: center;
+  text-shadow: 6px 4px 8px rgb(114, 113, 113);
+  margin-top: -20px;
+  margin-bottom: -70px;
+  font-size: 30px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
